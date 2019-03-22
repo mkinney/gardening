@@ -12,11 +12,11 @@ To learn more about the Kratky method, see [Resources](../resources/README.md) s
 * Coconut coir: I ordered a [large block from Amazon](https://smile.amazon.com/gp/product/B003MOD2HY). Here is the [sheet](coir_big.jpg) that came with it. You just [add water and wait for it to hydrate](coir_absorbing_water.jpg).
 * Plant food: I'd recommend [this](https://smile.amazon.com/Fertilizer-Minerals-Greenway-Biotech-Inc/dp/B07DM4WTT1) or [this](https://www.healthrangerstore.com/collections/ultraclean-plant-food/products/lettuce-formula-8-15-36-1-lb). 1 pound of this plant food should grow about 100 pounds of lettuce.
 * [CalMag](https://smile.amazon.com/General-Hydroponics-GH1772-CALiMAGic-Quart/dp/B00GZRKI40)
-* seeds: non-GMO heirloom are preferred [start with lettuce](https://smile.amazon.com/gp/product/B00P18ZNNA) or you can pick some up at your local Home Depot, hardware store, supermarket, etc. If you do not know what GMO or heirloom, look them up.
+* seeds: non-[GMO](https://en.wikipedia.org/wiki/Genetically_modified_organism) [heirloom](https://en.wikipedia.org/wiki/Heirloom_plant) are preferred [start with lettuce](https://smile.amazon.com/gp/product/B00P18ZNNA) or you can pick some up at your local Home Depot, hardware store, supermarket, etc.
 
 ## Optional
-* pH meter (optional, but is available for under $20)
-* TDS meter (optional, but is available for under $20)
+* [pH meter](https://smile.amazon.com/gp/product/B07JC9BSNRpH) (optional, but is available for under $20)
+* [TDS meter](https://smile.amazon.com/gp/product/B07JC9BSNR) (optional, but is available for under $20)
 * measuring cup (optional, use as a scoop out of the larger bucket)
 * table for mixing/working (optional)
 * buckets with lids (optional but very useful to have)
@@ -52,16 +52,16 @@ Other than the container being plastic instead of glass, it is the same as the K
 I am using Coconut Coir as my medium. [Coir](coir.jpg) is what came with the Mini-Farm (see below). I like it and it seems easy to work with. Plus, it is re-usable. 
 
 ### Make up solution
-I have been using 4 teaspoons of lettuce formula, 4 teaspoons of CALiMAGic, about 1/4 teaspoon of baking soda and 3 gallons of water. The baking soda is to change the pH. 
+I have been using [lettuce formula](../nutrients/README.md#Lettuce) for most plants.
 
-### Add water solution
-Pour in the water solution into the jar. The bottom third of the netcup should be covered.
+### Add solution
+Pour in the solution into the jar. The bottom third of the netcup should be covered. (If you do not put enough solution, your plant will dry out and die.)
 
 ### Plant seeds
-Plant seed according to recommendation. Typically 1/4" to 1/8" down. I have recently had lettuce sprout in two days, but typically it takes a few more days.
+Plant seed according to recommendation. Typically 1/4" to 1/8" down. I have recently had lettuce sprout in two days, but can take a few more days.
 
 ### Lighting
-Put in window sill (or optionally under grow lights). I am only using grow-lights, since I want to grow year-round in a controlled environment. I do not know much about lights, so I just picked up what was [available at Home Depot](led_light_front.jpg) [back](led_light_back.jpg). They were pricy at $134/each, but they are LED, so there should not be too much heat generated. [product info](https://www.feit.com/products/grow-lights/blue-spectrum-dual-2ft-led-plant-grow-light-3/) or [spec sheet](GLP14FS_HB_80W_LED_SpecSheet.pdf)
+Put in window sill (or optionally under grow lights). I am only using grow-lights, since I want to grow year-round in a controlled environment. I do not know much about lights, so I just picked up what was [available at Home Depot](led_light_front.jpg) [back](led_light_back.jpg). They were pricy at $134/each, but they are LED, so there should not be too much heat generated. [product info](https://www.feit.com/products/grow-lights/blue-spectrum-dual-2ft-led-plant-grow-light-3/) or [spec sheet](GLP14FS_HB_80W_LED_SpecSheet.pdf) I have my grow lights from from 6am to 10pm.
 
 ### Racks (optional)
 I planned on taking an area of a bedroom in my basement. I wanted to be able to experiment and grow as I wanted. So, I opted to use wire racks with wheels. To maximize the lighting, I used reflective material that I ziptie/tape to the racks. I have grown this from a [single rack](single_rack.jpg) [covered](single_rack2.jpg) [inside](one_rack2.jpg) to [two racks](two_racks.jpg) [alt](two_racks2.jpg) [inside](two_racks_internal.jpg), and currently am on three racks. 
