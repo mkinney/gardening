@@ -11,7 +11,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/22/19 left 2](IMG_4658.jpg) and [03/22/19 bottom right](IMG_4659.jpg)
 
 ## Carrots
-* 03/17/19 - Planted [Botanical Little Finger Carrots](botanical_carrots_little_finger_front.jpg) ([back](botanical_carrots_little_finger_back.jpg)) using coir medium and plastic [jar](../equipment/cashew_jar.jpg) that was [painted](../equipment/plastic_jugs_being_painted.jpg). Here I am [adding the solution to the jugs](prep_plastic_jugs.jpg). The water goes up to just under the white label. 
+* 03/17/19 - Planted [Botanical Little Finger Carrots](botanical_carrots_little_finger_front.jpg) ([back](botanical_carrots_little_finger_back.jpg)) using coir medium and plastic [jar](../equipment/cashew_jar.jpg) that was [painted](../equipment/plastic_jugs_being_painted.jpg). Here I am [adding the solution to the jugs](../equipment/prep_plastic_jugs.jpg). The water goes up to just under the white label. 
 <br>[03/17/19 - front 4 jugs](IMG_4625.jpg)
 <br>Got first sprout on 3/22.[03/22/19 - front 4 jugs](IMG_4657.jpg)
 
