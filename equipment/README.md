@@ -4,7 +4,7 @@ To learn more about the Kratky method, see [Resources](../resources/README.md) s
 
 ## Recommended
 * log book and pen - take notes; what is working well, what did not work well 
-* [measuring bucket](measuring_bucket.jpg)
+* <a width=100% height=auto href='measuring_bucket.jpg'>measuring bucket</a>
 * big spoon for mixing solution
 * teaspoons (one for liquids and another for powder to mix)
 * [Kerr wide mouth quart mason jars](kerr_wide_mouth_quart_jars.jpg) from Amazon or Walmart or even your local supermarket. 
