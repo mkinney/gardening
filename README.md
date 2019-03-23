@@ -10,3 +10,7 @@ So, I am starting with hydroponics, using the Kratky method.
 * [Equipment](equipment/README.md)
 * [Plantings](plantings/README.md)
 
+
+Note: I am now validating links using [remark](https://github.com/remarkjs/remark-validate-links) by running:
+
+    remark -u validate-links .
