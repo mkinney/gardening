@@ -15,6 +15,7 @@ To learn more about the Kratky method, see [Resources](../resources/README.md) s
 * seeds: non-[GMO](https://en.wikipedia.org/wiki/Genetically_modified_organism) [heirloom](https://en.wikipedia.org/wiki/Heirloom_plant) are preferred [start with lettuce](https://smile.amazon.com/gp/product/B00P18ZNNA) or you can pick some up at your local Home Depot, hardware store, supermarket, etc.
 
 ## Optional
+* [Clay pebbles](clay_pebbles.jpg) - I am going to start using these as the bottom 2/3 of the netcup to prevent [the coir from all dropping out the bottom](IMG_4669.jpg) from happening
 * [pH meter](https://smile.amazon.com/gp/product/B07JC9BSNRpH) (optional, but is available for under $20)
 * [TDS meter](https://smile.amazon.com/gp/product/B07JC9BSNR) (optional, but is available for under $20)
 * measuring cup (optional, use as a scoop out of the larger bucket)
@@ -64,7 +65,7 @@ Plant seed according to recommendation. Typically 1/4" to 1/8" down. I have rece
 Put in window sill (or optionally under grow lights or even outside). I am only using grow-lights, since I want to grow indoors, year-round in a controlled environment. I do not know much about lights, so I just picked up what was [available at Home Depot](led_light_front.jpg) ([back](led_light_back.jpg)). They were pricey at $134/each, but they are LED, so there should not be too much heat generated and the lighting should be consistent. Here is the [LED product info](https://www.feit.com/products/grow-lights/blue-spectrum-dual-2ft-led-plant-grow-light-3/) and [LED spec sheet](GLP14FS_HB_80W_LED_SpecSheet.pdf). I have my grow lights "on" from from 6am to 10pm. I bought a simple [timer](https://smile.amazon.com/gp/product/B00MVFF59S).
 
 ### Racks (optional)
-I planned on taking an area of a bedroom in my basement. I wanted to be able to experiment and grow as I wanted. So, I opted to use wire racks with wheels. To maximize the lighting, I used reflective material that I ziptie/tape to the racks. I have grown this from a [single rack](single_rack.jpg) ([covered](single_rack2.jpg), [inside](one_rack2.jpg)) to [two racks](two_racks.jpg) ([alternate view](two_racks2.jpg) and [inside](two_racks_internal.jpg)), and currently at [three racks](three_racks_external.jpg). 
+I planned on taking an area of a bedroom in my basement. I wanted to be able to experiment and grow as I wanted. So, I opted to use wire racks with wheels. To maximize the lighting, I used reflective material that I ziptie/tape to the racks. I have grown this from a [single rack](single_rack.jpg) ([covered](single_rack2.jpg), [inside](one_rack2.jpg)) to [two racks](two_racks.jpg) ([alternate view](two_racks2.jpg) and [inside](two_racks_internal.jpg)), and currently at [three racks](three_racks_external.jpg) ([left](left_rack.jpg], [middle](middle_rack.jpg), [right](right_rack.jpg)). 
 
 ## Kratky using Mini-Farm Grow Box
 [This](https://www.healthrangerstore.com/collections/mini-farm-grow-box-2-0/products/food-rising-mini-farm-grow-box-2-0-green-leafy-vegetables-starter-kit-with-4-hole-lid) is what motivated me to get started. It looked simple enough. I thought would buy one, then build others based on what I learned. I bought a mini-farm grow box and some plant food. Turns out that I could buy the food for less via different sources online.
