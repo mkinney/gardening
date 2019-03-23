@@ -5,7 +5,7 @@ There is quite a bit to learn about plant nutrients. I am still learning. It may
 I was intrigued when I first learned about adding a few teaspoons of plant food with some CalMag (calcium magnesium), water and some seeds.
 
 
-##Lettuce
+## Lettuce
 
 From what have researched, lettuce likes 8-15-36 and a pH range of 5.5 to 6.5, TDS of 1200-1500
 
@@ -19,14 +19,14 @@ I tried 3 jars of lettuce at first. They all died because I did not put enough w
 
 The second planting of lettuce went well. I planted them about 1/8" down and I got sprouts on the 2nd day. I was amazed!
 
-##Peppers
+## Peppers
 
 From what have researched, peppers like 11-11-40 and a pH range of 6.0 to 6.5, TDS of 300-500
 
 I started using 1 teaspoon [pepper mix](rising_food_pepper_formula.jpg), 1 teaspoon [CALiMAGic](calimagic1.jpg), and 1 teaspoon of white distilled 4% vinegar. That put the TDS in the 425-490 range and pH in the 5.6 to 5.8 range.
 
 
-##Tomato
+## Tomato
 From what have researched, tomatoes like 4-18-38 and a pH range of 5.5 to 6.5, TDS goal of 1200-1500.
 
 I mixed the solution similar to the Lettuce formula above but changed the plant food. I started in the [Mini Grow Farm](mini_grow_farm_with_tomatoes.jpg) with 4 teaspoons of [Rising Food Tomato Mix](rising_food_tomato_formula.jpg), 4 teaspoons of [CALiMAGic](calimagic1.jpg), and 1/4 teaspoon of baking soda. I got about 1140-1190 TDS and 6.2 to 6.4 pH.
