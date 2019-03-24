@@ -10,6 +10,7 @@ These are in alphabetical order by vegetable name.
 <br>I ended up transplanting one seedling to another netcup.
 <br>[03/22/19 left 2](files/IMG_4658.jpg) and [03/22/19 bottom right](files/IMG_4659.jpg)
 <br>[03/23/19 left 2](files/IMG_4665.jpg) and [03/23/19 bottom right](files/IMG_4666.jpg)
+<br>[03/24/19 left 2](files/IMG_4689.jpg) and [03/24/19 bottom right](files/IMG_4690.jpg)
 
 ## Carrots
 * 03/17/19 - Planted [Botanical Little Finger Carrots](files/botanical_carrots_little_finger_front.jpg) ([back](files/botanical_carrots_little_finger_back.jpg)) using coir medium and plastic [jar](../equipment/files/cashew_jar.jpeg) that was [painted](../equipment/files/plastic_jugs_being_painted.jpg). Here I am [adding the solution to the jugs](../equipment/files/prep_plastic_jugs.jpg). The water goes up to just under the white label. 
@@ -23,6 +24,7 @@ These are in alphabetical order by vegetable name.
 [03/17/19](files/IMG_4622.jpg)
 <br>I ended up transplanting some other netcups.
 <br>[03/22/19 right 2](files/IMG_4658.jpg) and [03/22/19 all but bottom right](files/IMG_4659.jpg)
+<br>[03/24/19 right 2](files/IMG_4689.jpg) and [03/24/19 all but bottom right](files/IMG_4690.jpg)
 
 ## Celery
 * Early March 2019 - Planted [Seeds of Change Utah Celery](files/seeds_of_change_celery_front.jpg) ([back](files/seeds_of_change_celery_back.jpg)) seeds. They never sprouted. Not sure if medium was not moist enough, if I planted the seeds too deep, or if the seeds were duds.
@@ -69,4 +71,5 @@ These are in alphabetical order by vegetable name.
 <br>[03/23/19](files/IMG_4667.jpg) [good roots](files/IMG_4670.jpg)
 <br>[03/24/19](files/IMG_4683.jpg) - Added temp and humidity inside grow area
 
-* TBD - I now have some [Reimer Legend Tomato](files/reimer_legend_tomato.jpg) seeds. I now have a larger 6' shelf and I want to see if I do not have to do pollination.
+* 03/24/19 - Planted six [Reimer Legend Tomato](files/reimer_legend_tomato.jpg) seeds (well, 2 seeds per netcup). I now have a larger 6' shelf and I want to see if I do not have to do pollination.
+<br>[03/24/19](files/IMG_4691.jpg)
