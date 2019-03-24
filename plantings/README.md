@@ -16,6 +16,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/17/19 - front 4 jugs](files/IMG_4625.jpg)
 <br>[03/22/19 - front 4 jugs](files/IMG_4657.jpg) - Got first sprout
 <br>[03/23/19 - front 4 jugs](files/IMG_4663.jpg)
+<br>[03/24/19 - front 4 jugs](files/IMG_4681.jpg) - All 4 have sprouts
 
 ## Cauliflower
 * 03/06/19 - Planted [Botanical Early Snowball Cauliflower](files/botanical_cauliflower_early_snowball_front.jpg) ([back](files/botanical_cauliflower_early_snowball_back.jpg)) in coir, in custom mini farm using [lettuce solution](../nutrients/README.md#Lettuce).
@@ -33,6 +34,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/17/19 - back left 2 jars](files/IMG_4625.jpg)
 <br>[03/22/19 - back row, left - has 3 or 4 starts](files/IMG_4657.jpg)
 <br>[03/23/19 - back row, left - has 3 or 4 starts](files/IMG_4663.jpg) - Was dry; added more solution to top
+<br>[03/24/19 - back row, left - has 3 or 4 starts](files/IMG_4681.jpg)
 
 ## Cucumbers
 * TBD - Ordered some Diva seeds from RDR as they are parthenocarpic. I now have a 6' growing shelf, so I'm looking forward to planting cukes.
@@ -42,6 +44,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/17/19 - 3 in back right](files/IMG_4625.jpg)
 <br>[03/22/19 - middle 4 jugs, back right 3 jars](files/IMG_4657.jpg)
 <br>[03/23/19 - middle 4 jugs, back right 3 jars](files/IMG_4663.jpg)
+<br>[03/24/19 - middle 4 jugs, back right 3 jars](files/IMG_4681.jpg)
 
 * 03/23/19 - Planted [6](files/IMG_4676.jpg) more [Ohio Buttercrunch Lettuce](files/ohio_lettuce_buttercrunch.jpg) seeds in 6 white painted mason jars. I'm trying a different medium setup. [Bottom two thirds of netcup will be clay pebbles](files/IMG_4672.jpg), [top third is coir](files/IMG_4673.jpg), [water mostly to rim of jar](files/IMG_4674.jpg) with [lettuce solution](../nutrients/README.md#Lettuce).
 
@@ -49,12 +52,14 @@ These are in alphabetical order by vegetable name.
 * ? - Planted [Botanical Walla Wall Onions](files/botanical_walla_walla_onion_front.jpg) ([back](files/botanical_walla_walla_onion_back.jpg)) - one did not make any sprouts and was too dry.
 * 03/17/19 - Planted Onions in 2 new buckets - trying with more [lettuce solution](../nutrients/README.md#Lettuce) 
 <br>[03/17/19 all onions - left 2 are from 2nd planting; right 2 are 1st planting](files/IMG_4626.jpg)
+<br>[03/24/19 all onions - left 2 are from 2nd planting; right 2 are 1st planting](files/IMG_4682.jpg) - Back left has a sprout
 
 ## Peppers
 * 03/06/19 Planted 4 different kinds of [peppers](files/peppers.jpg) in custom mini farm with [peppers solution](../nutrients/README.md#Peppers) in coir medium.
 <br>[03/17/19](files/IMG_4619.jpg)
 <br>[03/22/19](files/IMG_4655.jpg)
 <br>[03/23/19](files/IMG_4668.jpg) Concerned about the peppers as it looks like quite a bit of the [coir dropped out into thru the netcup](../equipment/files/IMG_4669.jpg).
+<br>[03/24/19](files/IMG_4684.jpg) back left and front left both had half bottom coir dropped out, so I [transplanted them into 100% clay pebbles](files/IMG_4685.jpg)
 
 
 ## Tomato
@@ -62,5 +67,6 @@ These are in alphabetical order by vegetable name.
 <br>One netcup did not sprout and another netcup had two starts, so I transplanted one start from the top left to the the bottom right netcup.
 <br>[03/22/19](files/IMG_4656.jpg)
 <br>[03/23/19](files/IMG_4667.jpg) [good roots](files/IMG_4670.jpg)
+<br>[03/24/19](files/IMG_4683.jpg) - Added temp and humidity inside grow area
 
-* TBD - I have ordered some Legend Tomato seeds from RDR. I now have a larger 6' shelf and I want to see if I do not have to do pollination.
+* TBD - I now have some [Reimer Legend Tomato](files/reimer_legend_tomato.jpg) seeds. I now have a larger 6' shelf and I want to see if I do not have to do pollination.
