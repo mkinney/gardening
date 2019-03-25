@@ -11,6 +11,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/22/19 left 2](files/IMG_4658.jpg) and [03/22/19 bottom right](files/IMG_4659.jpg)
 <br>[03/23/19 left 2](files/IMG_4665.jpg) and [03/23/19 bottom right](files/IMG_4666.jpg)
 <br>[03/24/19 left 2](files/IMG_4689.jpg) and [03/24/19 bottom right](files/IMG_4690.jpg)
+<br>[03/25/19 left 2](files/IMG_4702.jpg) and [03/25/19 bottom right](files/IMG_4703.jpg)
 
 ## Carrots
 * 03/17/19 - Planted [Botanical Little Finger Carrots](files/botanical_carrots_little_finger_front.jpg) ([back](files/botanical_carrots_little_finger_back.jpg)) using coir medium and plastic [jar](../equipment/files/cashew_jar.jpeg) that was [painted](../equipment/files/plastic_jugs_being_painted.jpg). Here I am [adding the solution to the jugs](../equipment/files/prep_plastic_jugs.jpg). The water goes up to just under the white label. 
@@ -25,6 +26,7 @@ These are in alphabetical order by vegetable name.
 <br>I ended up transplanting some other netcups.
 <br>[03/22/19 right 2](files/IMG_4658.jpg) and [03/22/19 all but bottom right](files/IMG_4659.jpg)
 <br>[03/24/19 right 2](files/IMG_4689.jpg) and [03/24/19 all but bottom right](files/IMG_4690.jpg)
+<br>[03/25/19 right 2](files/IMG_4702.jpg) and [03/25/19 all but bottom right](files/IMG_4703.jpg)
 
 ## Celery
 * Early March 2019 - Planted [Seeds of Change Utah Celery](files/seeds_of_change_celery_front.jpg) ([back](files/seeds_of_change_celery_back.jpg)) seeds. They never sprouted. Not sure if medium was not moist enough, if I planted the seeds too deep, or if the seeds were duds.
@@ -37,6 +39,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/22/19 - back row, left - has 3 or 4 starts](files/IMG_4657.jpg)
 <br>[03/23/19 - back row, left - has 3 or 4 starts](files/IMG_4663.jpg) - Was dry; added more solution to top
 <br>[03/24/19 - back row, left - has 3 or 4 starts](files/IMG_4681.jpg)
+<br>[03/24/19 - back row, left](files/IMG_4700.jpg)
 
 ## Cucumbers
 * TBD - Ordered some Diva seeds from RDR as they are parthenocarpic. I now have a 6' growing shelf, so I'm looking forward to planting cukes.
@@ -47,6 +50,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/22/19 - middle 4 jugs, back right 3 jars](files/IMG_4657.jpg)
 <br>[03/23/19 - middle 4 jugs, back right 3 jars](files/IMG_4663.jpg)
 <br>[03/24/19 - middle 4 jugs, back right 3 jars](files/IMG_4681.jpg)
+<br>[03/24/19 - middle 4 jugs, back right 3 jars](files/IMG_4700.jpg) - The back row is looking really good.
 
 * 03/23/19 - Planted [6](files/IMG_4676.jpg) more [Ohio Buttercrunch Lettuce](files/ohio_lettuce_buttercrunch.jpg) seeds in 6 white painted mason jars. I'm trying a different medium setup. [Bottom two thirds of netcup will be clay pebbles](files/IMG_4672.jpg), [top third is coir](files/IMG_4673.jpg), [water mostly to rim of jar](files/IMG_4674.jpg) with [lettuce solution](../nutrients/README.md#Lettuce).
 
@@ -62,6 +66,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/22/19](files/IMG_4655.jpg)
 <br>[03/23/19](files/IMG_4668.jpg) Concerned about the peppers as it looks like quite a bit of the [coir dropped out into thru the netcup](../equipment/files/IMG_4669.jpg).
 <br>[03/24/19](files/IMG_4684.jpg) back left and front left both had half bottom coir dropped out, so I [transplanted them into 100% clay pebbles](files/IMG_4685.jpg)
+<br>[03/25/19](files/IMG_4698.jpg)
 
 
 ## Tomato
@@ -70,6 +75,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/22/19](files/IMG_4656.jpg)
 <br>[03/23/19](files/IMG_4667.jpg) [good roots](files/IMG_4670.jpg)
 <br>[03/24/19](files/IMG_4683.jpg) - Added temp and humidity inside grow area
+<br>[03/25/19](files/IMG_4699.jpg) - Right front does not have any white roots to water yet. Manually watered.
 
 * 03/24/19 - Planted six [Reimer Legend Tomato](files/reimer_legend_tomato.jpg) seeds (well, 2 seeds per netcup). I now have a larger 6' shelf and I want to see if I do not have to do pollination.
 <br>[03/24/19](files/IMG_4691.jpg)
