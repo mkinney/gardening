@@ -39,7 +39,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/22/19 - back row, left - has 3 or 4 starts](files/IMG_4657.jpg)
 <br>[03/23/19 - back row, left - has 3 or 4 starts](files/IMG_4663.jpg) - Was dry; added more solution to top
 <br>[03/24/19 - back row, left - has 3 or 4 starts](files/IMG_4681.jpg)
-<br>[03/24/19 - back row, left](files/IMG_4700.jpg)
+<br>[03/25/19 - back row, left](files/IMG_4700.jpg)
 
 ## Cucumbers
 * TBD - Ordered some Diva seeds from RDR as they are parthenocarpic. I now have a 6' growing shelf, so I'm looking forward to planting cukes.
@@ -50,7 +50,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/22/19 - middle 4 jugs, back right 3 jars](files/IMG_4657.jpg)
 <br>[03/23/19 - middle 4 jugs, back right 3 jars](files/IMG_4663.jpg)
 <br>[03/24/19 - middle 4 jugs, back right 3 jars](files/IMG_4681.jpg)
-<br>[03/24/19 - middle 4 jugs, back right 3 jars](files/IMG_4700.jpg) - The back row is looking really good.
+<br>[03/25/19 - middle 4 jugs, back right 3 jars](files/IMG_4700.jpg) - The back row is looking really good.
 
 * 03/23/19 - Planted [6](files/IMG_4676.jpg) more [Ohio Buttercrunch Lettuce](files/ohio_lettuce_buttercrunch.jpg) seeds in 6 white painted mason jars. I'm trying a different medium setup. [Bottom two thirds of netcup will be clay pebbles](files/IMG_4672.jpg), [top third is coir](files/IMG_4673.jpg), [water mostly to rim of jar](files/IMG_4674.jpg) with [lettuce solution](../nutrients/README.md#Lettuce).
 
