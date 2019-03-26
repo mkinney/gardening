@@ -8,6 +8,7 @@ So, I am starting with hydroponics, using the Kratky method.
 
 * [Resources](resources/README.md)
 * [Equipment](equipment/README.md)
+* [Nutrient](nutrients/README.md)
 * [Plantings](plantings/README.md)
 
 
