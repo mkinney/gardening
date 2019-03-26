@@ -73,8 +73,8 @@ These are in alphabetical order by vegetable name.
 
 ## Peppers
 * 03/06/19 Planted 4 different kinds of [peppers](files/peppers.jpg) in custom mini farm with [peppers solution](../nutrients/README.md#peppers) in coir medium:
-<br>[Burpee Hot Salsa Blend](files/burpee_hot_salsa_blend_front.jpg) ([back](files/burpee_hot_salsa_blend_back.jpg)) - [Botanical Early Jalapeno](files/botanical_early_jalapeno_front.jpg) ([back](files/botanical_early_jalapeno_back.jpg))
-<br>[Burpee Habanero Blend](files/burpee_habanero_blend_front.jpg) ([back](files/burpee_habanero_blend_back.jpg)) - [Burpee Italian Pepperoncini](files/burpee_italian_pepperoncini_front.jpg) ([back](files/burpee_italian_pepperoncini_back.jpg))
+<br>[Burpee Hot Salsa Blend](files/burpee_hot_salsa_blend_front.jpg) / [back](files/burpee_hot_salsa_blend_back.jpg) - [Botanical Early Jalapeno](files/botanical_early_jalapeno_front.jpg) / [back](files/botanical_early_jalapeno_back.jpg)
+<br>[Burpee Habanero Blend](files/burpee_habanero_blend_front.jpg) / [back](files/burpee_habanero_blend_back.jpg) - [Burpee Italian Pepperoncini](files/burpee_italian_pepperoncini_front.jpg) / [back](files/burpee_italian_pepperoncini_back.jpg)
 <br>
 <br>[03/17/19](files/IMG_4619.jpg)
 <br>[03/22/19](files/IMG_4655.jpg)
