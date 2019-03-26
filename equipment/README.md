@@ -53,7 +53,7 @@ Other than the container being plastic instead of glass, it is the same as the K
 I am using Coconut Coir as my medium. [Coir](files/coir.jpg) is what came with the Mini-Farm (see below). I like it and it seems easy to work with. Plus, it is re-usable. 
 
 ### Make up solution
-I have been using [Lettuce formula](../nutrients/README.md#Lettuce) for most plants.
+I have been using [Lettuce formula](../nutrients/README.md#lettuce) for most plants.
 
 ### Add solution
 Pour in the solution into the jar. The bottom third of the netcup should be covered. (If you do not put enough solution, your plant will dry out and die.)

@@ -5,7 +5,7 @@ If possible, I look for non-[GMO](https://en.wikipedia.org/wiki/Genetically_modi
 These are in alphabetical order by vegetable name.
 
 ## Broccoli
-* 03/06/19 - Planted [Seeds of Change Broccoli](files/seeds_of_change_broccoli_front.jpg) ([back](files/seeds_of_change_broccoli_back.jpg)) in coir, in custom mini farm using [lettuce solution](../nutrients/README.md#Lettuce). I planted multiple seeds in case some did not sprout.
+* 03/06/19 - Planted [Seeds of Change Broccoli](files/seeds_of_change_broccoli_front.jpg) ([back](files/seeds_of_change_broccoli_back.jpg)) in coir, in custom mini farm using [lettuce solution](../nutrients/README.md#lettuce). I planted multiple seeds in case some did not sprout.
 [03/17/19](files/IMG_4622.jpg)
 <br>I ended up transplanting one seedling to another netcup.
 <br>[03/22/19 left 2](files/IMG_4658.jpg) and [03/22/19 bottom right](files/IMG_4659.jpg)
@@ -21,7 +21,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/24/19 - front 4 jugs](files/IMG_4681.jpg) - All 4 have sprouts
 
 ## Cauliflower
-* 03/06/19 - Planted [Botanical Early Snowball Cauliflower](files/botanical_cauliflower_early_snowball_front.jpg) ([back](files/botanical_cauliflower_early_snowball_back.jpg)) in coir, in custom mini farm using [lettuce solution](../nutrients/README.md#Lettuce).
+* 03/06/19 - Planted [Botanical Early Snowball Cauliflower](files/botanical_cauliflower_early_snowball_front.jpg) ([back](files/botanical_cauliflower_early_snowball_back.jpg)) in coir, in custom mini farm using [lettuce solution](../nutrients/README.md#lettuce).
 [03/17/19](files/IMG_4622.jpg)
 <br>I ended up transplanting some other netcups.
 <br>[03/22/19 right 2](files/IMG_4658.jpg) and [03/22/19 all but bottom right](files/IMG_4659.jpg)
@@ -34,7 +34,7 @@ These are in alphabetical order by vegetable name.
 
 
 ## Cilantro
-* 03/04/19 - Planted four [Seeds of Change Slow Bolt Cilantro](files/seeds_of_change_cilantro_front.jpg) ([back](files/seeds_of_change_cilantro_back.jpg)) seeds in acrylic painted wide mouth mason jars with [lettuce solution](../nutrients/README.md#Lettuce). One jar got too dry and even though I saw some [initial sprouts](files/cilantro_lettuce_and_tomato.jpg), they died. The other jar was fairly dry, but I think I caught it in time. Now, I am more generous with the intial amount of solution in the jar. 
+* 03/04/19 - Planted four [Seeds of Change Slow Bolt Cilantro](files/seeds_of_change_cilantro_front.jpg) ([back](files/seeds_of_change_cilantro_back.jpg)) seeds in acrylic painted wide mouth mason jars with [lettuce solution](../nutrients/README.md#lettuce). One jar got too dry and even though I saw some [initial sprouts](files/cilantro_lettuce_and_tomato.jpg), they died. The other jar was fairly dry, but I think I caught it in time. Now, I am more generous with the intial amount of solution in the jar. 
 <br>[03/17/19 - back left 2 jars](files/IMG_4625.jpg)
 <br>[03/22/19 - back row, left - has 3 or 4 starts](files/IMG_4657.jpg)
 <br>[03/23/19 - back row, left - has 3 or 4 starts](files/IMG_4663.jpg) - Was dry; added more solution to top
@@ -61,18 +61,21 @@ These are in alphabetical order by vegetable name.
 <br>[03/24/19 - middle 4 jugs](files/IMG_4681.jpg)
 <br>[03/25/19 - middle 4 jugs](files/IMG_4700.jpg) - one never sprouted so I dumped it.
 
-* 03/23/19 - Planted [6](files/IMG_4676.jpg) more [Ohio Buttercrunch Lettuce](files/ohio_lettuce_buttercrunch.jpg) seeds in 6 white painted mason jars. I'm trying a different medium setup. [Bottom two thirds of netcup will be clay pebbles](files/IMG_4672.jpg), [top third is coir](files/IMG_4673.jpg), [water mostly to rim of jar](files/IMG_4674.jpg) with [lettuce solution](../nutrients/README.md#Lettuce).
+* 03/23/19 - Planted [6](files/IMG_4676.jpg) more [Ohio Buttercrunch Lettuce](files/ohio_lettuce_buttercrunch.jpg) seeds in 6 white painted mason jars. I'm trying a different medium setup. [Bottom two thirds of netcup will be clay pebbles](files/IMG_4672.jpg), [top third is coir](files/IMG_4673.jpg), [water mostly to rim of jar](files/IMG_4674.jpg) with [lettuce solution](../nutrients/README.md#lettuce).
 
 ## Onions
 
 * ? - Planted [Botanical Walla Wall Onions](files/botanical_walla_walla_onion_front.jpg) ([back](files/botanical_walla_walla_onion_back.jpg)) - one did not make any sprouts and was too dry. Dumped the small white bucket.
 
-* 03/17/19 - Planted Onions in 2 new buckets - trying with more [lettuce solution](../nutrients/README.md#Lettuce) 
+* 03/17/19 - Planted Onions in 2 new buckets - trying with more [lettuce solution](../nutrients/README.md#lettuce) 
 <br>[03/17/19 all onions - left 2 are from 2nd planting; right 2 are 1st planting](files/IMG_4626.jpg)
 <br>[03/24/19 all onions - left 2 are from 2nd planting; right 2 are 1st planting](files/IMG_4682.jpg) - Back left has a sprout
 
 ## Peppers
-* 03/06/19 Planted 4 different kinds of [peppers](files/peppers.jpg) in custom mini farm with [peppers solution](../nutrients/README.md#Peppers) in coir medium.
+* 03/06/19 Planted 4 different kinds of [peppers](files/peppers.jpg) in custom mini farm with [peppers solution](../nutrients/README.md#peppers) in coir medium:
+<br>[Burpee Hot Salsa Blend](files/burpee_hot_salsa_blend_front.jpg) ([back](files/burpee_hot_salsa_blend_back.jpg)) - [Botanical Early Jalapeno](files/botanical_early_jalapeno_front.jpg) ([back](files/botanical_early_jalapeno_back.jpg))
+<br>[Burpee Habanero Blend](files/burpee_habanero_blend_front.jpg) ([back](files/burpee_habanero_blend_back.jpg)) - [Burpee Italian Pepperoncini](files/burpee_italian_pepperoncini_front.jpg) ([back](files/burpee_italian_pepperoncini_back.jpg))
+<br>
 <br>[03/17/19](files/IMG_4619.jpg)
 <br>[03/22/19](files/IMG_4655.jpg)
 <br>[03/23/19](files/IMG_4668.jpg) Concerned about the peppers as it looks like quite a bit of the [coir dropped out into thru the netcup](../equipment/files/IMG_4669.jpg).
@@ -80,7 +83,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/25/19](files/IMG_4698.jpg)
 
 ## Strawberry
-* 03/26/19 - Mixed [strawberry solution](../nutrients/README.md#Strawberry).
+* 03/26/19 - Mixed [strawberry solution](../nutrients/README.md#strawberry).
 
 
 ## Tomato
