@@ -45,17 +45,28 @@ These are in alphabetical order by vegetable name.
 * TBD - Ordered some Diva seeds from RDR as they are parthenocarpic. I now have a 6' growing shelf, so I'm looking forward to planting cukes.
 
 ## Lettuce
+
 * 03/03/19 - Planted a single [Ohio Buttercrunch Lettuce](files/ohio_lettuce_buttercrunch.jpg) seed in acrylic painted wide mouth mason jars using coconut coir media using [lettuce solution](../nutrients/README.md#Lettuce). They sprouted quickly, but they did not make it. I put the water at the bottom of the netcup, but I think I either did not put enough water in the jar or it dried out. Also, do not use acrylic paint on glass. When it gets wet, the paint comes off and gets everywhere. Here is my very first [bud](files/first_bud.jpg) on 03/06, only 3 days after planting.
-<br>[03/17/19 - 3 in back right](files/IMG_4625.jpg)
-<br>[03/22/19 - middle 4 jugs, back right 3 jars](files/IMG_4657.jpg)
-<br>[03/23/19 - middle 4 jugs, back right 3 jars](files/IMG_4663.jpg)
-<br>[03/24/19 - middle 4 jugs, back right 3 jars](files/IMG_4681.jpg)
-<br>[03/25/19 - middle 4 jugs, back right 3 jars](files/IMG_4700.jpg) - The back row is looking really good.
+
+* 03/10/19 - Planted three [Ohio Buttercrunch Lettuce](files/ohio_lettuce_buttercrunch.jpg) seeds in mason jars.
+<br>[03/17/19 back right 3 jars](files/IMG_4625.jpg)
+<br>[03/22/19 back right 3 jars](files/IMG_4657.jpg)
+<br>[03/23/19 back right 3 jars](files/IMG_4663.jpg)
+<br>[03/24/19 back right 3 jars](files/IMG_4681.jpg)
+<br>[03/25/19 back right 3 jars](files/IMG_4700.jpg) - Starting to look really good.
+
+* 03/17/19 - Planted 4 [Ohio Buttercrunch Lettuce](files/ohio_lettuce_buttercrunch.jpg) seeds in jugs.
+<br>[03/22/19 - middle 4 jugs](files/IMG_4657.jpg)
+<br>[03/23/19 - middle 4 jugs](files/IMG_4663.jpg)
+<br>[03/24/19 - middle 4 jugs](files/IMG_4681.jpg)
+<br>[03/25/19 - middle 4 jugs](files/IMG_4700.jpg) - one never sprouted so I dumped it.
 
 * 03/23/19 - Planted [6](files/IMG_4676.jpg) more [Ohio Buttercrunch Lettuce](files/ohio_lettuce_buttercrunch.jpg) seeds in 6 white painted mason jars. I'm trying a different medium setup. [Bottom two thirds of netcup will be clay pebbles](files/IMG_4672.jpg), [top third is coir](files/IMG_4673.jpg), [water mostly to rim of jar](files/IMG_4674.jpg) with [lettuce solution](../nutrients/README.md#Lettuce).
 
 ## Onions
-* ? - Planted [Botanical Walla Wall Onions](files/botanical_walla_walla_onion_front.jpg) ([back](files/botanical_walla_walla_onion_back.jpg)) - one did not make any sprouts and was too dry.
+
+* ? - Planted [Botanical Walla Wall Onions](files/botanical_walla_walla_onion_front.jpg) ([back](files/botanical_walla_walla_onion_back.jpg)) - one did not make any sprouts and was too dry. Dumped the small white bucket.
+
 * 03/17/19 - Planted Onions in 2 new buckets - trying with more [lettuce solution](../nutrients/README.md#Lettuce) 
 <br>[03/17/19 all onions - left 2 are from 2nd planting; right 2 are 1st planting](files/IMG_4626.jpg)
 <br>[03/24/19 all onions - left 2 are from 2nd planting; right 2 are 1st planting](files/IMG_4682.jpg) - Back left has a sprout
@@ -68,6 +79,9 @@ These are in alphabetical order by vegetable name.
 <br>[03/24/19](files/IMG_4684.jpg) back left and front left both had half bottom coir dropped out, so I [transplanted them into 100% clay pebbles](files/IMG_4685.jpg)
 <br>[03/25/19](files/IMG_4698.jpg)
 
+## Strawberry
+* 03/26/19 - Mixed [strawberry solution](../nutrients/README.md#Strawberry).
+
 
 ## Tomato
 * 03/01/19 - Planted four netcups of [RDR Seeds Tiny Toms](files/rdr_tiny_tom_front.jpg) ([back](files/rdr_tiny_tom_back.jpg)) in the [Mini Grow Farm](../nutrients/files/mini_grow_farm_with_tomatoes.jpg) They need to be pollinated so I bought a cheap electric toothbrush. Hopefully, they will last long enough for me to get to that stage. I chose this variety so I did not have to worry about the bushes getting too tall for my grow shelf. [Peppers and Tomatoes in mini-farm](files/tomatoes_and_peppers.jpg).
@@ -77,5 +91,5 @@ These are in alphabetical order by vegetable name.
 <br>[03/24/19](files/IMG_4683.jpg) - Added temp and humidity inside grow area
 <br>[03/25/19](files/IMG_4699.jpg) - Right front does not have any white roots to water yet. Manually watered.
 
-* 03/24/19 - Planted six [Reimer Legend Tomato](files/reimer_legend_tomato.jpg) seeds (well, 2 seeds per netcup). I now have a larger 6' shelf and I want to see if I do not have to do pollination.
+* 03/24/19 - Planted six [Reimer](http://www.reimerseeds.com/) [Legend Tomato](files/reimer_legend_tomato.jpg) seeds (well, 2 seeds per netcup). I now have a larger 6' shelf and I want to see if I can avoid doing manual pollination.
 <br>[03/24/19](files/IMG_4691.jpg)
