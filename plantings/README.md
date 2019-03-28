@@ -12,6 +12,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/23/19 left 2](files/IMG_4665.jpg) and [03/23/19 bottom right](files/IMG_4666.jpg)
 <br>[03/24/19 left 2](files/IMG_4689.jpg) and [03/24/19 bottom right](files/IMG_4690.jpg)
 <br>[03/25/19 left 2](files/IMG_4702.jpg) and [03/25/19 bottom right](files/IMG_4703.jpg)
+<br>[03/27/19 left 2](files/IMG_4755.jpg) and [03/27/19 bottom right](files/IMG_4756.jpg)
 
 ## Carrots
 * 03/17/19 - Planted [Botanical Little Finger Carrots](files/botanical_carrots_little_finger_front.jpg) ([back](files/botanical_carrots_little_finger_back.jpg)) using coir medium and plastic [jar](../equipment/files/cashew_jar.jpeg) that was [painted](../equipment/files/plastic_jugs_being_painted.jpg). Here I am [adding the solution to the jugs](../equipment/files/prep_plastic_jugs.jpg). The water goes up to just under the white label. 
@@ -19,6 +20,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/22/19 - front 4 jugs](files/IMG_4657.jpg) - Got first sprout
 <br>[03/23/19 - front 4 jugs](files/IMG_4663.jpg)
 <br>[03/24/19 - front 4 jugs](files/IMG_4681.jpg) - All 4 have sprouts
+<br>[03/27/19 - left 3 jugs, and center jug](files/IMG_4753.jpg)
 
 ## Cauliflower
 * 03/06/19 - Planted [Botanical Early Snowball Cauliflower](files/botanical_cauliflower_early_snowball_front.jpg) ([back](files/botanical_cauliflower_early_snowball_back.jpg)) in coir, in custom mini farm using [lettuce solution](../nutrients/README.md#lettuce).
@@ -27,6 +29,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/22/19 right 2](files/IMG_4658.jpg) and [03/22/19 all but bottom right](files/IMG_4659.jpg)
 <br>[03/24/19 right 2](files/IMG_4689.jpg) and [03/24/19 all but bottom right](files/IMG_4690.jpg)
 <br>[03/25/19 right 2](files/IMG_4702.jpg) and [03/25/19 all but bottom right](files/IMG_4703.jpg)
+<br>[03/27/19 right 2](files/IMG_4755.jpg) and [03/27/19 all but bottom right](files/IMG_4756.jpg)
 
 ## Celery
 * Early March 2019 - Planted [Seeds of Change Utah Celery](files/seeds_of_change_celery_front.jpg) ([back](files/seeds_of_change_celery_back.jpg)) seeds. They never sprouted. Not sure if medium was not moist enough, if I planted the seeds too deep, or if the seeds were duds.
@@ -40,6 +43,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/23/19 - back row, left - has 3 or 4 starts](files/IMG_4663.jpg) - Was dry; added more solution to top
 <br>[03/24/19 - back row, left - has 3 or 4 starts](files/IMG_4681.jpg)
 <br>[03/25/19 - back row, left](files/IMG_4700.jpg)
+<br>[03/27/19 - middle row, right](files/IMG_4753.jpg)
 
 ## Cucumbers
 * TBD - Ordered some Diva seeds from RDR as they are parthenocarpic. I now have a 6' growing shelf, so I'm looking forward to planting cukes.
@@ -54,14 +58,17 @@ These are in alphabetical order by vegetable name.
 <br>[03/23/19 back right 3 jars](files/IMG_4663.jpg)
 <br>[03/24/19 back right 3 jars](files/IMG_4681.jpg)
 <br>[03/25/19 back right 3 jars](files/IMG_4700.jpg) - Starting to look really good.
+<br>[03/27/19 front middle jars](files/IMG_4754.jpg)
 
 * 03/17/19 - Planted 4 [Ohio Buttercrunch Lettuce](files/ohio_lettuce_buttercrunch.jpg) seeds in jugs.
 <br>[03/22/19 - middle 4 jugs](files/IMG_4657.jpg)
 <br>[03/23/19 - middle 4 jugs](files/IMG_4663.jpg)
 <br>[03/24/19 - middle 4 jugs](files/IMG_4681.jpg)
 <br>[03/25/19 - middle 4 jugs](files/IMG_4700.jpg) - one never sprouted so I dumped it.
+<br>[03/27/19 - middle front, middle back, right back](files/IMG_4753.jpg)
 
 * 03/23/19 - Planted [6](files/IMG_4676.jpg) more [Ohio Buttercrunch Lettuce](files/ohio_lettuce_buttercrunch.jpg) seeds in 6 white painted mason jars. I'm trying a different medium setup. [Bottom two thirds of netcup will be clay pebbles](files/IMG_4672.jpg), [top third is coir](files/IMG_4673.jpg), [water mostly to rim of jar](files/IMG_4674.jpg) with [lettuce solution](../nutrients/README.md#lettuce).
+<br>[03/27/19 - right 6 white jars](files/IMG_4754.jpg)
 
 ## Onions
 
@@ -70,6 +77,7 @@ These are in alphabetical order by vegetable name.
 * 03/17/19 - Planted Onions in 2 new buckets - trying with more [lettuce solution](../nutrients/README.md#lettuce) 
 <br>[03/17/19 all onions - left 2 are from 2nd planting; right 2 are 1st planting](files/IMG_4626.jpg)
 <br>[03/24/19 all onions - left 2 are from 2nd planting; right 2 are 1st planting](files/IMG_4682.jpg) - Back left has a sprout
+<br>[03/27/19 left 2 are from 2nd planting; back is from 1st planting](files/IMG_4754.jpg)
 
 ## Peppers
 * 03/06/19 Planted 4 different kinds of [peppers](files/peppers.jpg) in custom mini farm with [peppers solution](../nutrients/README.md#peppers) in coir medium:
@@ -83,6 +91,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/23/19](files/IMG_4668.jpg) Concerned about the peppers as it looks like quite a bit of the [coir dropped out into thru the netcup](../equipment/files/IMG_4669.jpg).
 <br>[03/24/19](files/IMG_4684.jpg) back left and front left both had half bottom coir dropped out, so I [transplanted them into 100% clay pebbles](files/IMG_4685.jpg)
 <br>[03/25/19](files/IMG_4698.jpg)
+<br>[03/27/19](files/IMG_4757.jpg)
 
 ## Strawberry
 * 03/26/19 - Mixed [strawberry solution](../nutrients/README.md#strawberry).
@@ -95,6 +104,7 @@ These are in alphabetical order by vegetable name.
 <br>[03/23/19](files/IMG_4667.jpg) [good roots](files/IMG_4670.jpg)
 <br>[03/24/19](files/IMG_4683.jpg) - Added temp and humidity inside grow area
 <br>[03/25/19](files/IMG_4699.jpg) - Right front does not have any white roots to water yet. Manually watered.
+<br>[03/27/19](files/IMG_4758.jpg)
 
 * 03/24/19 - Planted six [Reimer](http://www.reimerseeds.com/) [Legend Tomato](files/reimer_legend_tomato.jpg) seeds (well, 2 seeds per netcup). I now have a larger 6' shelf and I want to see if I can avoid doing manual pollination.
 <br>[03/24/19](files/IMG_4691.jpg)
