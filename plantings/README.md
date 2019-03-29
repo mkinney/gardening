@@ -46,11 +46,14 @@ These are in alphabetical order by vegetable name.
 <br>[03/27/19 - middle row, right](files/IMG_4753.jpg)
 
 ## Cucumbers
-* TBD - Ordered some Diva seeds from RDR as they are parthenocarpic. I now have a 6' growing shelf, so I'm looking forward to planting cukes.
+* 03/29/19 - Planted some [Reimer Diva Cucumbers](files/reimer_diva_cucumbers.jpg). They are parthenocarpic. I now have a 6' growing shelf, so I'm looking forward to planting cukes.
+
+## Dill
+* 03/28/19 - Planted two [Seeds of Change Dill](files/seeds_of_change_dill_front.jpg) ([back](files/seeds_of_change_dill_back.jpg)
 
 ## Lettuce
 
-* 03/03/19 - Planted a single [Ohio Buttercrunch Lettuce](files/ohio_lettuce_buttercrunch.jpg) seed in acrylic painted wide mouth mason jars using coconut coir media using [lettuce solution](../nutrients/README.md#Lettuce). They sprouted quickly, but they did not make it. I put the water at the bottom of the netcup, but I think I either did not put enough water in the jar or it dried out. Also, do not use acrylic paint on glass. When it gets wet, the paint comes off and gets everywhere. Here is my very first [bud](files/first_bud.jpg) on 03/06, only 3 days after planting.
+* 03/03/19 - Planted a single [Ohio Buttercrunch Lettuce](files/ohio_lettuce_buttercrunch.jpg) seed in acrylic painted wide mouth mason jars using coconut coir media using [lettuce solution](../nutrients/README.md#lettuce). They sprouted quickly, but they did not make it. I put the water at the bottom of the netcup, but I think I either did not put enough water in the jar or it dried out. Also, do not use acrylic paint on glass. When it gets wet, the paint comes off and gets everywhere. Here is my very first [bud](files/first_bud.jpg) on 03/06, only 3 days after planting.
 
 * 03/10/19 - Planted three [Ohio Buttercrunch Lettuce](files/ohio_lettuce_buttercrunch.jpg) seeds in mason jars.
 <br>[03/17/19 back right 3 jars](files/IMG_4625.jpg)
@@ -79,6 +82,8 @@ These are in alphabetical order by vegetable name.
 <br>[03/24/19 all onions - left 2 are from 2nd planting; right 2 are 1st planting](files/IMG_4682.jpg) - Back left has a sprout
 <br>[03/27/19 left 2 are from 2nd planting; back is from 1st planting](files/IMG_4754.jpg)
 
+* 03/29/19 - Planted [Reimer Yellow Granex Onions](files/reimer_yellow_granex_onions.jpg) in [lettuce solution](../nutrients/README.md#lettuce)
+
 ## Peppers
 * 03/06/19 Planted 4 different kinds of [peppers](files/peppers.jpg) in custom mini farm with [peppers solution](../nutrients/README.md#peppers) in coir medium:
 <br>[Burpee Hot Salsa Blend](files/burpee_hot_salsa_blend_front.jpg) ([back](files/burpee_hot_salsa_blend_back.jpg))
@@ -93,8 +98,11 @@ These are in alphabetical order by vegetable name.
 <br>[03/25/19](files/IMG_4698.jpg)
 <br>[03/27/19](files/IMG_4757.jpg)
 
+## Radishes
+* 03/29/19 - Planted 6 [Reimer Cherriette Radishes](files/reimer_cherriette_radishes.jpg)
+
 ## Strawberry
-* 03/26/19 - Mixed [strawberry solution](../nutrients/README.md#strawberry).
+* 03/29/19 - Planted [Reimer Italian Alpine Strawberry](files/reimer_italian_alpine_strawberries.jpg) using [strawberry solution](../nutrients/README.md#strawberry).
 
 
 ## Tomato
