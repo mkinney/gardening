@@ -8,6 +8,7 @@ These are in alphabetical order by vegetable name.
 Planted some green beans.
 <br>[04/03/19](files/IMG_4996.jpg) - first sprout
 <br>[04/04/19 left 2](files/IMG_5008.jpg)
+<br>[04/05/19 left 2](files/IMG_5023.jpg)
 
 ## Broccoli
 * 03/06/19 - Planted [Seeds of Change Broccoli](files/seeds_of_change_broccoli_front.jpg) ([back](files/seeds_of_change_broccoli_back.jpg)) in coir, in custom mini farm using [lettuce solution](../nutrients/README.md#lettuce). I planted multiple seeds in case some did not sprout.
@@ -20,6 +21,7 @@ Planted some green beans.
 <br>[03/27/19 left 2](files/IMG_4755.jpg) and [03/27/19 bottom right](files/IMG_4756.jpg)
 <br>[04/02/19 left 2](files/IMG_4985.jpg) and [04/02/19 bottom right](files/IMG_4986.jpg)
 <br>[04/04/19 left 2](files/IMG_5002.jpg) and [04/04/19 bottom right](files/IMG_5003.jpg)
+<br>[04/05/19 left 2](files/IMG_5017.jpg) and [04/05/19 bottom right](files/IMG_5018.jpg)
 
 ## Carrots
 * 03/17/19 - Planted [Botanical Little Finger Carrots](files/botanical_carrots_little_finger_front.jpg) ([back](files/botanical_carrots_little_finger_back.jpg)) using coir medium and plastic [jar](../equipment/files/cashew_jar.jpeg) that was [painted](../equipment/files/plastic_jugs_being_painted.jpg). Here I am [adding the solution to the jugs](../equipment/files/prep_plastic_jugs.jpg). The water goes up to just under the white label. 
@@ -82,7 +84,7 @@ Planted some green beans.
 <br>[03/25/19 back right 3 jars](files/IMG_4700.jpg) - Starting to look really good.
 <br>[03/27/19 front middle jars](files/IMG_4754.jpg)
 <br>[04/02/19 middle](files/IMG_4984.jpg) - Was out of town for a few days. One of them started to look pretty [wilty](files/IMG_4993.jpg). Turns out, there was no water in the jar any more. I added more lettuce solution about half way in jar. The other two jars had less than one inch of water, but were doing fine.
-<br>[04/04/19](files/IMG_5001.jpg) and [04/04/19 one may not recover](files/IMG_5004.jpg) 
+<br>[04/04/19](files/IMG_5001.jpg) and [04/04/19 one may not recover](files/IMG_5004.jpg)
 
 * 03/17/19 - Planted 4 [Ohio Buttercrunch Lettuce](files/ohio_lettuce_buttercrunch.jpg) seeds in jugs.
 <br>[03/22/19 - middle 4 jugs](files/IMG_4657.jpg)
