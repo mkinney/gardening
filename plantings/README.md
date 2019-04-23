@@ -150,7 +150,7 @@ Planted some green beans.
 <br>[04/02/19](files/IMG_4989.jpg)
 <br>[04/03/19](files/IMG_4994.jpg) - Got first flower
 <br>[04/04/19](files/IMG_5006.jpg)
-<br>[04/23/19](files/IMG_5321.jpg) - Looking good
+<br>[04/23/19](files/IMG_5231.jpg) - Looking good
 
 * 03/24/19 - Planted six [Reimer](http://www.reimerseeds.com/) [Legend Tomato](files/reimer_legend_tomato.jpg) seeds (well, 2 seeds per netcup). I now have a larger 6' shelf and I want to see if I can avoid doing manual pollination.
 <br>[03/24/19](files/IMG_4691.jpg)
