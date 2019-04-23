@@ -31,6 +31,7 @@ Planted some green beans.
 <br>[03/24/19 - front 4 jugs](files/IMG_4681.jpg) - All 4 have sprouts
 <br>[03/27/19 - left 3 jugs, and center jug](files/IMG_4753.jpg)
 <br>[04/04/19 - left 3 jugs](files/IMG_4999.jpg)
+<br>[04/23/19](files/IMG_5238.jpg) - not much of a harvest; hopefully 2nd batch will be better
 
 * TBD
 <br>[04/03/19](files/IMG_4997.jpg) - sprouting (left row and back 2)
@@ -132,6 +133,7 @@ Planted some green beans.
 * 03/29/19 - Planted 6 [Reimer Cherriette Radishes](files/reimer_cherriette_radishes.jpg)
 <br>[04/03/19](files/IMG_4997.jpg) - sprouting (front 6)
 <br>[04/04/19](files/IMG_4997.jpg)
+<br>[04/23/19](files/IMG_5236.jpg) - not a big harvest, but very happy about these
 
 ## Strawberry
 * 03/29/19 - Planted [Reimer Italian Alpine Strawberry](files/reimer_italian_alpine_strawberries.jpg) using [strawberry solution](../nutrients/README.md#strawberry).
@@ -148,6 +150,7 @@ Planted some green beans.
 <br>[04/02/19](files/IMG_4989.jpg)
 <br>[04/03/19](files/IMG_4994.jpg) - Got first flower
 <br>[04/04/19](files/IMG_5006.jpg)
+<br>[04/23/19](files/IMG_5321.jpg) - Looking good
 
 * 03/24/19 - Planted six [Reimer](http://www.reimerseeds.com/) [Legend Tomato](files/reimer_legend_tomato.jpg) seeds (well, 2 seeds per netcup). I now have a larger 6' shelf and I want to see if I can avoid doing manual pollination.
 <br>[03/24/19](files/IMG_4691.jpg)
