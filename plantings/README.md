@@ -9,6 +9,7 @@ Planted some green beans.
 <br>[04/03/19](files/IMG_4996.jpg) - first sprout
 <br>[04/04/19 left 2](files/IMG_5008.jpg)
 <br>[04/05/19 left 2](files/IMG_5023.jpg)
+<br>[05/16/19 left 2](files/IMG_5468.jpg) - Looking good; I keep getting dead leaves but there are beans growing
 
 ## Broccoli
 * 03/06/19 - Planted [Seeds of Change Broccoli](files/seeds_of_change_broccoli_front.jpg) ([back](files/seeds_of_change_broccoli_back.jpg)) in coir, in custom mini farm using [lettuce solution](../nutrients/README.md#lettuce). I planted multiple seeds in case some did not sprout.
@@ -22,6 +23,7 @@ Planted some green beans.
 <br>[04/02/19 left 2](files/IMG_4985.jpg) and [04/02/19 bottom right](files/IMG_4986.jpg)
 <br>[04/04/19 left 2](files/IMG_5002.jpg) and [04/04/19 bottom right](files/IMG_5003.jpg)
 <br>[04/05/19 left 2](files/IMG_5017.jpg) and [04/05/19 bottom right](files/IMG_5018.jpg)
+<br>Ended up giving up on these. They got big and bushy, but not really worth the effort.
 
 ## Carrots
 * 03/17/19 - Planted [Botanical Little Finger Carrots](files/botanical_carrots_little_finger_front.jpg) ([back](files/botanical_carrots_little_finger_back.jpg)) using coir medium and plastic [jar](../equipment/files/cashew_jar.jpeg) that was [painted](../equipment/files/plastic_jugs_being_painted.jpg). Here I am [adding the solution to the jugs](../equipment/files/prep_plastic_jugs.jpg). The water goes up to just under the white label. 
@@ -32,10 +34,12 @@ Planted some green beans.
 <br>[03/27/19 - left 3 jugs, and center jug](files/IMG_4753.jpg)
 <br>[04/04/19 - left 3 jugs](files/IMG_4999.jpg)
 <br>[04/23/19](files/IMG_5238.jpg) - not much of a harvest; hopefully 2nd batch will be better
+<br>ended up pulling the plug on the carrots
 
 * TBD
 <br>[04/03/19](files/IMG_4997.jpg) - sprouting (left row and back 2)
 <br>[04/04/19 - back 4](files/IMG_4999.jpg)
+<br>ended up pulling the plug on the carrots
 
 ## Cauliflower
 * 03/06/19 - Planted [Botanical Early Snowball Cauliflower](files/botanical_cauliflower_early_snowball_front.jpg) ([back](files/botanical_cauliflower_early_snowball_back.jpg)) in coir, in custom mini farm using [lettuce solution](../nutrients/README.md#lettuce).
@@ -47,6 +51,7 @@ Planted some green beans.
 <br>[03/27/19 right 2](files/IMG_4755.jpg) and [03/27/19 all but bottom right](files/IMG_4756.jpg)
 <br>[04/02/19 right 2](files/IMG_4985.jpg) and [04/02/19 all but bottom right](files/IMG_4986.jpg)
 <br>[04/04/19 right 2](files/IMG_5002.jpg) and [04/04/19 all but bottom right](files/IMG_5003.jpg)
+<br>Ended up giving up on these. They were growing, but not really worth the effort.
 
 ## Celery
 * Early March 2019 - Planted [Seeds of Change Utah Celery](files/seeds_of_change_celery_front.jpg) ([back](files/seeds_of_change_celery_back.jpg)) seeds. They never sprouted. Not sure if medium was not moist enough, if I planted the seeds too deep, or if the seeds were duds.
@@ -68,6 +73,7 @@ Planted some green beans.
 ## Cucumbers
 * 03/29/19 - Planted some [Reimer Diva Cucumbers](files/reimer_diva_cucumbers.jpg). They are parthenocarpic. I now have a 6' growing shelf, so I'm looking forward to planting cukes.
 <br>[04/04/19 - right 4](files/IMG_5008.jpg)
+<br>[05/16/19 - right 4](files/IMG_5468.jpg) - They are overshadowed by the beans, but growing well
 
 ## Dill
 * 03/28/19 - Planted two [Seeds of Change Dill](files/seeds_of_change_dill_front.jpg) ([back](files/seeds_of_change_dill_back.jpg)
@@ -128,6 +134,7 @@ Planted some green beans.
 <br>[03/27/19](files/IMG_4757.jpg)
 <br>[04/02/19](files/IMG_4988.jpg)
 <br>[04/04/19](files/IMG_5005.jpg)
+<br>[05/16/19](files/IMG_5465.jpg) - Several pepperoncinis are growing, sprouts from two other peppers
 
 ## Radishes
 * 03/29/19 - Planted 6 [Reimer Cherriette Radishes](files/reimer_cherriette_radishes.jpg)
@@ -137,6 +144,7 @@ Planted some green beans.
 
 ## Strawberry
 * 03/29/19 - Planted [Reimer Italian Alpine Strawberry](files/reimer_italian_alpine_strawberries.jpg) using [strawberry solution](../nutrients/README.md#strawberry).
+<br>They never srpouted. Bummer.
 
 
 ## Tomato
@@ -151,8 +159,11 @@ Planted some green beans.
 <br>[04/03/19](files/IMG_4994.jpg) - Got first flower
 <br>[04/04/19](files/IMG_5006.jpg)
 <br>[04/23/19](files/IMG_5231.jpg) - Looking good
+<br>[05/13/19](files/IMG_5449.jpg) - Picked some tomatoes
+<br>[05/16/19](files/IMG_5466.jpg) - Quite a few more tomatoes are growing
 
 * 03/24/19 - Planted six [Reimer](http://www.reimerseeds.com/) [Legend Tomato](files/reimer_legend_tomato.jpg) seeds (well, 2 seeds per netcup). I now have a larger 6' shelf and I want to see if I can avoid doing manual pollination.
 <br>[03/24/19](files/IMG_4691.jpg)
 <br>[04/02/19](files/IMG_4990.jpg)
 <br>[04/04/19](files/IMG_5007.jpg)
+<br>[05/16/19](files/IMG_5467.jpg) - Looks like some tomatoes survived a water shortage
