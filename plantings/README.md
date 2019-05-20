@@ -73,7 +73,8 @@ Planted some green beans.
 ## Cucumbers
 * 03/29/19 - Planted some [Reimer Diva Cucumbers](files/reimer_diva_cucumbers.jpg). They are parthenocarpic. I now have a 6' growing shelf, so I'm looking forward to planting cukes.
 <br>[04/04/19 - right 4](files/IMG_5008.jpg)
-<br>[05/16/19 - right 4](files/IMG_5468.jpg) - They are overshadowed by the beans, but growing well
+<br>[05/16/19 - right 3](files/IMG_5468.jpg) - They are overshadowed by the beans, but growing well
+<br>[05/20/19 - right 3](files/IMG_5512.jpg) - I see two flowers. Yay!
 
 ## Dill
 * 03/28/19 - Planted two [Seeds of Change Dill](files/seeds_of_change_dill_front.jpg) ([back](files/seeds_of_change_dill_back.jpg)
@@ -115,6 +116,7 @@ Planted some green beans.
 <br>[03/17/19 all onions - left 2 are from 2nd planting; right 2 are 1st planting](files/IMG_4626.jpg)
 <br>[03/24/19 all onions - left 2 are from 2nd planting; right 2 are 1st planting](files/IMG_4682.jpg) - Back left has a sprout
 <br>[03/27/19 left 2 are from 2nd planting; back is from 1st planting](files/IMG_4754.jpg)
+<br>[05/20/19](files/IMG_5513.jpg)
 
 * 03/29/19 - Planted [Reimer Yellow Granex Onions](files/reimer_yellow_granex_onions.jpg) in [lettuce solution](../nutrients/README.md#lettuce)
 <br>[04/04/19 right 4 big jugs](files/IMG_5001.jpg)
@@ -135,12 +137,16 @@ Planted some green beans.
 <br>[04/02/19](files/IMG_4988.jpg)
 <br>[04/04/19](files/IMG_5005.jpg)
 <br>[05/16/19](files/IMG_5465.jpg) - Several pepperoncinis are growing, sprouts from two other peppers
+<br>[05/20/19](files/IMG_5504.jpg) [05/20/19](files/IMG_5507.jpg)
 
 ## Radishes
 * 03/29/19 - Planted 6 [Reimer Cherriette Radishes](files/reimer_cherriette_radishes.jpg)
 <br>[04/03/19](files/IMG_4997.jpg) - sprouting (front 6)
 <br>[04/04/19](files/IMG_4997.jpg)
 <br>[04/23/19](files/IMG_5236.jpg) - not a big harvest, but very happy about these
+
+* 04/23/19 - Planted 4 more
+<br>[05/20/19](files/IMG_5514.jpg)
 
 ## Strawberry
 * 03/29/19 - Planted [Reimer Italian Alpine Strawberry](files/reimer_italian_alpine_strawberries.jpg) using [strawberry solution](../nutrients/README.md#strawberry).
@@ -167,3 +173,4 @@ Planted some green beans.
 <br>[04/02/19](files/IMG_4990.jpg)
 <br>[04/04/19](files/IMG_5007.jpg)
 <br>[05/16/19](files/IMG_5467.jpg) - Looks like some tomatoes survived a water shortage
+<br>[05/20/19](files/IMG_5511.jpg) - One has a big flower
