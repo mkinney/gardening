@@ -10,6 +10,7 @@ Planted some green beans.
 <br>[04/04/19 left 2](files/IMG_5008.jpg)
 <br>[04/05/19 left 2](files/IMG_5023.jpg)
 <br>[05/16/19 left 2](files/IMG_5468.jpg) - Looking good; I keep getting dead leaves but there are beans growing
+<br>[05/29/19](files/IMG_5526.jpg) - Harvested some green beans
 
 ## Broccoli
 * 03/06/19 - Planted [Seeds of Change Broccoli](files/seeds_of_change_broccoli_front.jpg) ([back](files/seeds_of_change_broccoli_back.jpg)) in coir, in custom mini farm using [lettuce solution](../nutrients/README.md#lettuce). I planted multiple seeds in case some did not sprout.
@@ -138,6 +139,10 @@ Planted some green beans.
 <br>[04/04/19](files/IMG_5005.jpg)
 <br>[05/16/19](files/IMG_5465.jpg) - Several pepperoncinis are growing, sprouts from two other peppers
 <br>[05/20/19](files/IMG_5504.jpg) [05/20/19](files/IMG_5507.jpg)
+<br>[05/24/19](files/IMG_5522.jpg) - 4 big pepperoncinis
+<br>[05/29/19](files/IMG_5524.jpg) - Early Jalapeno
+<br>[05/29/19](files/IMG_5525.jpg) - Two hot salsa blend
+<br>[05/29/19](files/IMG_5527.jpg) - With help from a friend, made some salsa - mostly from hydro growings (exceptions are salt and garlic)
 
 ## Radishes
 * 03/29/19 - Planted 6 [Reimer Cherriette Radishes](files/reimer_cherriette_radishes.jpg)
